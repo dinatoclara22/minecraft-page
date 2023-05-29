@@ -1,0 +1,26 @@
+[
+  {
+    "img": "/assets/power.svg",
+    "text": "Jogue também offline" 
+  },
+
+  {
+    "img": "/assets/user.svg",
+    "text": "67 jogadores" 
+  },
+
+  {
+    "img": "/assets/game-controller.svg",
+    "text": "Compatível com uso remoto" 
+  },
+
+  {
+    "img": "/assets/vibrate.svg",
+    "text": "Vibração no controle" 
+  },
+
+  {
+    "img": "/assets/kid.svg",
+    "text": "Permitido para menores" 
+  }
+]

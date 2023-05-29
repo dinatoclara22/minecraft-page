@@ -18,8 +18,9 @@ export default {
         'gray': '#414141' 
 			},
 			backgroundColor: {
-				'shadow-grey': 'rgba(255, 255, 255, 0.16);'
-			}
+				'shadow-grey': 'rgba(255, 255, 255, 0.16)',
+				"light-green": "#33E29A",
+			}, 
 		},
 	},
 	plugins: [],
